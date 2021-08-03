@@ -1,0 +1,1 @@
+enum ArticleType { hot, favorites }
